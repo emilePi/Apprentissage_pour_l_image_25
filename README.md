@@ -1,8 +1,8 @@
 # Apprentissage pour l'image
 
-## Cours 1 et 2 : 28/03/2025
+## Cours 3 : 28/03/2025
 
-- Slides : [Slides I](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/Slides/Slides_II.pdf)
+- Slides : [Slides II](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/Slides/Slides_II.pdf)
 - TP : [TP1](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP1_entame.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP1_entame.ipynb)
 
 
