@@ -1,9 +1,16 @@
 # Apprentissage pour l'image
 
+## Cours 4 : 31/03/2025
+
+- Slides : [Slides III](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/Slides/Slides_III.pdf)
+- TD : [TD2](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/TD/TD2.pdf)
+- TP : [TP2](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP2.ipynb)
+
 ## Cours 3 : 28/03/2025
 
 - Slides : [Slides II](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/Slides/Slides_II.pdf)
 - TP : [TP1](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP1_entame.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP1_entame.ipynb)
+- Eléments de correction du TP1: [Corr](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP1_Corr.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP1_Corr.ipynb)
 
 
 
