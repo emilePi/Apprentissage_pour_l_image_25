@@ -1,6 +1,6 @@
 # Apprentissage pour l'image
 
-## Cours 4 : 31/03/2025
+## Cours 4 & 5 : 31/03/2025-04/04/2025
 
 - Slides : [Slides III](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/Slides/Slides_III.pdf)
 - TD : [TD2](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/TD/TD2.pdf)
