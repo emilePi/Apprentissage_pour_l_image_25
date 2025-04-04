@@ -21,6 +21,7 @@
 - Slides : [Slides III](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/Slides/Slides_III.pdf)
 - TD : [TD2](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/TD/TD2.pdf)
 - TP : [TP2](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP2.ipynb)
+- Eléments de correction du TP2: [Corr](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP2_Corr.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP2_Corr.ipynb)
 
 ## Cours 3 : 28/03/2025
 
