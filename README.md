@@ -7,13 +7,16 @@
 - Slides : [Slides V](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/Slides/Slides_V.pdf)
 - TP : [TP4](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP4.ipynb)
 
+-->
+
+- **Vendredi 25/04** : 9h-11h (2h) **Examen en E05**
 
 ## Cours 6 : 07/04/2025
 
 - Slides : [Slides IV](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/Slides/Slides_IV.pdf)
 - TD : [TD3](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/TD/TD3.pdf)
 - TP : [TP3](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP3.ipynb)
--->
+
 
 
 ## Cours 4 & 5 : 31/03/2025-04/04/2025
@@ -47,7 +50,7 @@
 - **Vendredi 04/04** : 8h-10h (2h)
 - **Lundi    07/04** : 13h30-16h30 (3h)
 - **Vendredi 11/04** : 8h-10h (2h)
-- **Vendredi 25/04** : 9h-11h (2h) **Examen**
+- **Vendredi 25/04** : 9h-11h (2h) **Examen en E05**
 
 
 
