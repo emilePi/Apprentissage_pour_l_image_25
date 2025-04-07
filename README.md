@@ -16,6 +16,7 @@
 - Slides : [Slides IV](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/Slides/Slides_IV.pdf)
 - TD : [TD3](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/TD/TD3.pdf)
 - TP : [TP3](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP3.ipynb)
+- Eléments de correction du TP3: [Corr](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP3_Corr.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP3_Corr.ipynb)
 
 
 
