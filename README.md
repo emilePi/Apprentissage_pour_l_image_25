@@ -1,15 +1,17 @@
 # Apprentissage pour l'image
 
-<!---
+- **Vendredi 25/04** : 9h-11h (2h) **Examen en E05**
 
 ## Cours 7 : 11/04/2025
 
 - Slides : [Slides V](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/Slides/Slides_V.pdf)
 - TP : [TP4](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/TP4.ipynb)
 
+<!--
+- Projet 2023 : [Projet](https://github.com/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/Projet_2023.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emilePi/Apprentissage_pour_l_image_25/blob/main/TP/Projet_2023.ipynb)
 -->
 
-- **Vendredi 25/04** : 9h-11h (2h) **Examen en E05**
+
 
 ## Cours 6 : 07/04/2025
 
